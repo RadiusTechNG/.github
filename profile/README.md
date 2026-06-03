@@ -1,14 +1,10 @@
 # Radius Tech Hub NG Limited
 
-## Building Digital Solutions That Scale
+Building Scalable Software for Modern Businesses.
 
-Radius Tech Hub NG Limited is a software development company focused on delivering modern technology solutions for businesses, startups, institutions, and enterprises.
+Radius Tech Hub NG Limited is a software engineering company focused on delivering modern digital solutions for startups, SMEs, enterprises, and institutions.
 
-We specialize in developing scalable web applications, business automation platforms, AI-powered systems, fintech products, enterprise software, and custom digital solutions that drive growth and operational efficiency.
-
----
-
-## Core Services
+## What We Build
 
 ### Software Development
 
@@ -21,54 +17,49 @@ We specialize in developing scalable web applications, business automation platf
 ### AI & Automation
 
 * AI-Powered Business Assistants
-* WhatsApp Automation
+* WhatsApp Automation Systems
 * Workflow Automation
-* Customer Support Systems
-* Intelligent Business Processes
+* Customer Support Platforms
 
 ### Fintech Solutions
 
-* Digital Wallet Systems
-* Payment Integrations
-* Financial Platforms
+* Payment Systems
+* Digital Wallet Platforms
+* Financial Applications
 * Transaction Processing Systems
 
 ### Enterprise Solutions
 
 * Healthcare Systems
 * Educational Platforms
-* Real Estate Management Systems
-* Logistics & Operations Platforms
-
----
+* Real Estate Platforms
+* Logistics & Operations Systems
 
 ## Featured Projects
 
+### Nigerian SME SaaS
+
+Business automation platform designed to help SMEs manage customer engagement, bookings, orders, logistics, and operational workflows.
+
 ### V-App
 
-Digital fintech platform supporting secure transactions, user management, and financial operations.
-
-### Business Automation CRM
-
-AI-powered business management platform featuring WhatsApp automation, appointment scheduling, logistics management, payment processing, and customer engagement tools.
+Digital financial platform built to support secure transactions, user management, and financial operations.
 
 ### Hospital Management System
 
-Comprehensive healthcare management platform for patient records, appointments, and administrative operations.
+Comprehensive healthcare management platform for patient records, appointments, administration, and reporting.
 
 ### Pineleaf Estates
 
-Modern real estate platform designed for property listing, lead generation, and customer engagement.
+Modern real estate platform focused on property marketing, lead generation, and customer engagement.
 
 ### B Family Homes
 
 Property discovery and management platform built for real estate businesses.
 
----
-
 ## Technology Stack
 
-Frontend
+### Frontend
 
 * React
 * Next.js
@@ -76,7 +67,7 @@ Frontend
 * TypeScript
 * Tailwind CSS
 
-Backend
+### Backend
 
 * Laravel
 * PHP
@@ -84,13 +75,13 @@ Backend
 * Express
 * Python
 
-Databases
+### Databases
 
 * PostgreSQL
 * MySQL
 * MongoDB
 
-Cloud & Infrastructure
+### Infrastructure
 
 * Cloudflare
 * Docker
@@ -98,7 +89,7 @@ Cloud & Infrastructure
 * Nginx
 * VPS Infrastructure
 
-Integrations
+### Integrations
 
 * OpenAI
 * Meta WhatsApp API
@@ -107,24 +98,22 @@ Integrations
 * Monnify
 * Stripe
 
----
-
-## Industries We Serve
+## Industries
 
 * Healthcare
 * Real Estate
 * Education
-* Hospitality
 * Logistics
+* Hospitality
 * Retail & E-Commerce
 * Financial Services
 
----
+## Headquarters
 
-## Connect With Us
+Awka, Anambra State, Nigeria
+
+## Connect
 
 Website: https://radiustechhub.com
 
-LinkedIn: https://linkedin.com/company/radiustechhub
-
-Location: Awka, Anambra State, Nigeria
+Email: [info@radiustechhub.com](mailto:info@radiustechhub.com)
